@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a little bit of everything
+- 🌱 I’m currently learning applied bayesian modeling and deep learning
+- 👯 I’m looking for contribute to Stats and ML tools for Julia
+- 📫 How to reach me: [alexcluff16@gmail.com](mailto:alexcluff16@gmail.com)
+
 <!--
 **cluffa/cluffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
