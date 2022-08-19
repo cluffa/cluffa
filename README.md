@@ -2,7 +2,7 @@
 
 #### I'm Looking For a Job!
 If you're hiring, please take a look at some of my highlighted projects on my porfolio site
-[Cluffa.GitHub.io/porfolio](https://Cluffa.GitHub.io/porfolio)
+[Cluffa.GitHub.io/porfolio](https://Cluffa.GitHub.io/portfolio)
 
 - 👯 I’m looking to collaborate on Stats and ML tools
 - 🌱 I’m currently learning applied bayesian modeling, deep learning, and Rust
