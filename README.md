@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### I'm Looking For a Job!
+If you're hiring, please take a look at some of my highlighted project on my porfolio site
+[Cluffa.GitHub.io/porfolio](https://Cluffa.GitHub.io/porfolio)
+
 - 👯 I’m looking to collaborate on Stats and ML tools
 - 🌱 I’m currently learning applied bayesian modeling and deep learning
 - 📫 How to reach me: [alexcluff16@gmail.com](mailto:alexcluff16@gmail.com)
