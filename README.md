@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### I'm Looking For a Job!
-If you're hiring, please take a look at some of my highlighted project on my porfolio site
+If you're hiring, please take a look at some of my highlighted projects on my porfolio site
 [Cluffa.GitHub.io/porfolio](https://Cluffa.GitHub.io/porfolio)
 
 - 👯 I’m looking to collaborate on Stats and ML tools
