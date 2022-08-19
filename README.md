@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a little bit of everything
+- 👯 I’m looking to collaborate on Stats and ML tools
 - 🌱 I’m currently learning applied bayesian modeling and deep learning
-- 👯 I’m looking for contribute to Stats and ML tools for Julia
 - 📫 How to reach me: [alexcluff16@gmail.com](mailto:alexcluff16@gmail.com)
 
 <!--
