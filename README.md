@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### I'm Looking For a Work!
-porfolio site: [Cluffa.GitHub.io/porfolio](https://Cluffa.GitHub.io/portfolio)   
+porfolio site: [cluffa.github.io/porfolio](https://cluffa.github.io/portfolio)   
 📫 How to reach me: [alexcluff16@gmail.com](mailto:alexcluff16@gmail.com)
 
 <!--
