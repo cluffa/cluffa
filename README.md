@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 #### I'm Looking For Work!
-portfolio site: [cluffa.github.io/portfolio](https://cluffa.github.io/portfolio)   
+📂 Portfolio site: [cluffa.github.io/portfolio](https://cluffa.github.io/portfolio)   
 📫 How to reach me: [alexcluff16@gmail.com](mailto:alexcluff16@gmail.com)
+
+[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 
 <!--
 **cluffa/cluffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
