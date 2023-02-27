@@ -16,5 +16,8 @@ jobs:
 
     - name: Generate the user stats image
       uses: cicirello/user-statistician@v1
+      with:
+        colors: dark-dimmed
+        custom-title: My GitHub Statistics
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
