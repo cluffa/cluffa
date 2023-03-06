@@ -3,6 +3,9 @@ name: join-calendar
 on:
   push:
     branches: main
+    paths:
+      - 'scripts/calendar/**'
+      - '.github/workflows/cal.yml'
   schedule:
   - cron: '0 5 * * *'
   workflow_dispatch:
