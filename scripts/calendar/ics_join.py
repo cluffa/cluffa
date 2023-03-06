@@ -26,7 +26,8 @@ while i < len(events):
 
 # %%
 c.events = new
+c.name = 'SparkAI Schedule (joined)'
 
 # %%
 with open('scripts/calendar/my.ics', 'w') as f:
-    f.writelines(c.serialize())
+    f.writelines(c.serialize().replace('SparkAI Schedule', 'SparkAI Schedule (joined)'))
