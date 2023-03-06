@@ -23,7 +23,6 @@ while i < len(events):
 
     i += 1
 
-
 # %%
 c.events = new
 c.name = 'SparkAI Schedule (joined)'
