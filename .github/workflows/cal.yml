@@ -20,7 +20,7 @@ jobs:
     
     - name: run script
       run: |
-        python scripts/calendar/calendar.py
+        python scripts/calendar/ics_join.py
 
     - name: commit changes
       run: |
