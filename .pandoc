@@ -1,1 +1,2 @@
 pandoc -s -V geometry:margin=0.5in -o alex_cluff_resume.pdf resume.md
+pandoc -s -V geometry:margin=0.5in --metadata title="Resume" -o alex_cluff_resume.html resume.md
