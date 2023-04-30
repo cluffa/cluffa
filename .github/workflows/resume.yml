@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Install Deps
-        run: sudo apt install pandoc texlive-xetex texlive-fonts-recommended texlive-generic-recommended
+        run: sudo apt install pandoc
 
       - name: Render PDF
         run: pandoc -s -V geometry:margin=0.5in -o alex_cluff_resume.pdf resume.md
