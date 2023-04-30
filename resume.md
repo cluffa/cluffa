@@ -1,5 +1,5 @@
 # Alex Cluff
-_Location_: Marion, Ohio | _Phone_: [(740) 396-9652](tel:7403969652) | _Email_: [AlexCluff16@gmail.com](mailto:AlexCluff16@gmail.com) | _Portfolio_: [cluffa.github.io/portfolio](https://cluffa.github.io/portfolio)
+_Location_: Marion, Ohio | [_Phone_: (740) 396-9652](tel:7403969652) | [_Email_: AlexCluff16@gmail.com](mailto:AlexCluff16@gmail.com) | [_Portfolio_: cluffa.github.io/portfolio](https://cluffa.github.io/portfolio)
 
 ## Summary
 Data-driven professional with a Bachelor's in Statistics & Data Analytics, skilled in R, Python, SQL, and Tableau. Experienced in data analysis, visualization, and machine learning. Seeking a challenging role in data analytics or data science.
@@ -11,7 +11,7 @@ Data-driven professional with a Bachelor's in Statistics & Data Analytics, skill
 ## Skills
 - R, Python, SQL, Julia, Excel, MATLAB
 - Data analysis, visualization, machine learning, AI, time series analysis
-- SAS, C++, Rust, JavaScript (Node.js), Java
+- Familiar with SAS, C++, Rust, JavaScript (Node.js), Java
 - HTML, CSS, JavaScript, React
 - Tableau, Power BI, Shiny (R + Python), Plotly
 - Git, data cleaning, data modeling, statistical methods
