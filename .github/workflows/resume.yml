@@ -18,7 +18,7 @@ jobs:
         run: sudo apt install pandoc texlive-latex-base texlive-latex-recommended
 
       - name: Render PDF
-        run: pandoc -s -V geometry:margin=0.5in -o alex_cluff_resume.pdf resume.md
+        run: source .pandoc
 
       - name: Commit PDF
         run: |

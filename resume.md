@@ -9,12 +9,11 @@ Data-driven professional with a Bachelor's in Statistics & Data Analytics, skill
 *Columbus, OH*
 
 ## Skills
-- R, Python, SQL, Julia, Excel, MATLAB
-- Data analysis, visualization, machine learning, AI, time series analysis
-- Familiar with SAS, C++, Rust, JavaScript (Node.js), Java
-- HTML, CSS, JavaScript, React
-- Tableau, Power BI, Shiny (R + Python), Plotly
-- Git, data cleaning, data modeling, statistical methods
+- Programming Languages: R, Python, SQL, Julia, Excel, MATLAB, Rust
+- Data Science: statistics, analysis, visualization, AI/machine learning, time series analysis, data cleaning
+- Web Development: HTML, CSS, JavaScript, React
+- Dashboard Tools: Tableau, Power BI, Shiny (R + Python), Plotly
+- Other: Git & GitHub, Docker, Linux
 
 ## Experience
 ### **Landscaper**, McColly Landscaping _(Jun 2014 - Dec 2022)_
@@ -41,7 +40,7 @@ A self-made website showcasing a variety of data analytics and data science proj
 An interactive dashboard displaying weightlifting results and trends, built using R and Shiny.
 
 **Weight Loss Tracking Dashboard**: [cluffa.shinyapps.io/Weight-Loss-Trends](https://cluffa.shinyapps.io/Weight-Loss-Trends), 
-A data visualization tool for tracking weight loss progress over time, created with R and Shiny.
+A data visualization tool for tracking weight loss progress over time, with smoothing splines, linear regression, and time series analysis, created with R and Shiny.
 
 **BarTracking**: [github.com/cluffa/BarTracking](https://github.com/cluffa/BarTracking), 
 A machine learning project utilizing deep learning and computer vision to track the path of a barbell during lifts. Worked on all aspects of the machine learning process, including data annotation, data pipeline management, model architecture adjustments, GPU-based training, and optimization.

@@ -1,0 +1,1 @@
+pandoc -s -V geometry:margin=0.5in -o alex_cluff_resume.pdf resume.md
