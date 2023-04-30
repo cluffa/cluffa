@@ -27,9 +27,3 @@ jobs:
           git add alex_cluff_resume.pdf
           git commit -m "Render PDF"
           git push
-      
-      - name: Upload PDF
-        uses: actions/upload-artifact@v2
-        with:
-          name: alex_cluff_resume.pdf
-          path: alex_cluff_resume.pdf
