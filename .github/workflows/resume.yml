@@ -12,16 +12,16 @@ jobs:
     runs-on: ubuntu-latest
       
     steps:
-    - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
 
-    - name: Install Deps
-    - run: apt install pandoc texlive-xetex texlive-fonts-recommended texlive-generic-recommended
+      - name: Install Deps
+        run: apt install pandoc texlive-xetex texlive-fonts-recommended texlive-generic-recommended
 
-    - name: Render PDF
-    - run: pandoc -s -V geometry:margin=0.5in -o alex_cluff_resume.pdf resume.md
+      - name: Render PDF
+        run: pandoc -s -V geometry:margin=0.5in -o alex_cluff_resume.pdf resume.md
 
     # - name: Commit PDF
-    # - run: |
+    #   run: |
     #     git config --local user.email "github-actions@no-reply.github.com"
     #     git config --local user.name "github-actions[bot]"
     #     git add alex_cluff_resume.pdf
