@@ -1,11 +1,11 @@
 # Alex Cluff
-_Location_: Marion, Ohio | _Phone_: [(740) 396-9652](tel:7403969652) | _Email_: [AlexCluff16@gmail.com](mailto:AlexCluff16@gmail.com) | _Portfolio_: [cluffa.github.io/portfolio](https://cluffa.github.io/portfolio)
+Marion, Ohio | _Phone_: [(740) 396-9652](tel:7403969652) | _Email_: [AlexCluff16@gmail.com](mailto:AlexCluff16@gmail.com) | _Portfolio_: [cluffa.github.io/portfolio](https://cluffa.github.io/portfolio)
 
 ## Summary
 Data-driven professional with a Bachelor's in Statistics & Data Analytics, skilled in R, Python, SQL, and Tableau. Experienced in data analysis, visualization, and machine learning. Seeking a challenging role in data analytics or data science.
 
 ## Education
-### **B.S. in Statistics & Data Analytics**, Ohio State University _(Aug 2016 - Dec 2021)_  
+### **B.S. in Statistics & Data Analytics**, Ohio State University _(Dec 2021)_  
 *Columbus, OH*
 
 ## Skills
@@ -13,7 +13,7 @@ Data-driven professional with a Bachelor's in Statistics & Data Analytics, skill
 - Data Science: statistics, analysis, visualization, AI/machine learning, time series analysis, data cleaning
 - Web Development: HTML, CSS, JavaScript, React
 - Dashboard Tools: Tableau, Power BI, Shiny (R + Python), Plotly
-- Other: Git & GitHub, Docker, Linux
+- Other: Git & GitHub, Docker, Linux, CI/CD
 
 ## Experience
 ### **Landscaper**, McColly Landscaping _(Jun 2014 - Dec 2022)_
@@ -27,7 +27,7 @@ Data-driven professional with a Bachelor's in Statistics & Data Analytics, skill
 - Created and maintained dashboards with KPIs to help team members improve performance
 - Collaborated with team members to achieve target results, leveraging data analysis and visualization techniques
 
-### **Image Annotation Specialist**, SparkAI _(Feb 2023 - Present)_
+### **Data Annotation Specialist**, SparkAI _(Feb 2023 - May 2023)_
 - Performed image annotation tasks to solve edge cases in real-time, ensuring accurate and consistent results
 - Followed project-specific guidelines and quality standards to maintain high-quality data
 - Applied basic AI concepts such as computer vision, machine learning, and deep learning to understand the purpose and scope of each task
