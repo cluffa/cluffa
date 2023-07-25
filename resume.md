@@ -27,7 +27,7 @@ Data-driven professional with a Bachelor's in Statistics & Data Analytics, skill
 - Created and maintained dashboards with KPIs to help team members improve performance
 - Collaborated with team members to achieve target results, leveraging data analysis and visualization techniques
 
-### **Mission Specialist (Contractor)**, SparkAI _(Feb 2023 - May 2023)_
+### **Image Annotation Analyst (Contractor)**, SparkAI _(Feb 2023 - May 2023)_
 - Performed image annotation tasks to solve edge cases in real-time, ensuring accurate and consistent results
 - Followed project-specific guidelines and quality standards to maintain high-quality data
 
