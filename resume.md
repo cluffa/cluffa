@@ -1,19 +1,13 @@
 # Alex Cluff
-Marion, Ohio | _Phone_: [(740) 396-9652](tel:7403969652) | _Email_: [AlexCluff16@gmail.com](mailto:AlexCluff16@gmail.com) | _Portfolio_: [cluffa.github.io/portfolio](https://cluffa.github.io/portfolio)
+Marion, Ohio | _Phone_: [(740) 396-9652](tel:7403969652) | _Email_: [AlexCluff16@gmail.com](mailto:AlexCluff16@gmail.com)
+ <!-- | _Portfolio_: [cluffa.github.io/portfolio](https://cluffa.github.io/portfolio) -->
 
-## Summary
-Data-driven professional with a Bachelor's in Statistics & Data Analytics, skilled in R, Python, SQL, and Tableau. Experienced in data analysis, visualization, and machine learning. Seeking a challenging role in data analytics or data science.
+<!-- ## Summary
+Data-driven professional with a Bachelor's in Statistics & Data Analytics, skilled in R, Python, SQL, and Tableau. Experienced in data analysis, visualization, and machine learning. Seeking a challenging role in data analytics or data science. -->
 
 ## Education
 ### **B.S. in Statistics & Data Analytics**, Ohio State University _(Dec 2021)_  
 *Columbus, OH*
-
-## Skills
-- Programming Languages: R, Python, SQL, Julia, Excel, MATLAB, Rust
-- Data Science: statistics, analysis, visualization, AI/machine learning, time series analysis, data cleaning
-- Web Development: HTML, CSS, JavaScript, React
-- Dashboard Tools: Tableau, Power BI, Shiny (R + Python), Plotly
-- Other: Git & GitHub, Docker, Linux, CI/CD
 
 ## Experience
 ### **Landscaper**, McColly Landscaping _(Jun 2014 - Dec 2022)_
@@ -31,7 +25,18 @@ Data-driven professional with a Bachelor's in Statistics & Data Analytics, skill
 - Performed image annotation tasks to solve edge cases in real-time, ensuring accurate and consistent results
 - Followed project-specific guidelines and quality standards to maintain high-quality data
 
-## Projects
+## Skills
+- Programming Languages: R, Python, SQL, Julia, Excel, MATLAB, Rust
+- Data Science: statistics, analysis, visualization, AI/machine learning, time series analysis, data cleaning
+- Web Development: HTML, CSS, JavaScript, React
+- Dashboard Tools: Tableau, Power BI, Shiny (R + Python), Plotly
+- Other: Git & GitHub, Docker, Linux, CI/CD
+
+## Portfolio
+### [cluffa.github.io/portfolio](https://cluffa.github.io/portfolio)
+- Includes links to GitHub repositories and live demos of projects
+
+<!-- ## Projects
 **Portfolio**: [cluffa.github.io/portfolio](https://cluffa.github.io/portfolio), 
 A self-made website showcasing a variety of data analytics and data science projects, with summaries and links to GitHub repositories.
 
@@ -42,4 +47,4 @@ An interactive dashboard displaying weightlifting results and trends, built usin
 A data visualization tool for tracking weight loss progress over time, with smoothing splines, linear regression, and time series analysis, created with R and Shiny.
 
 **BarTracking**: [github.com/cluffa/BarTracking](https://github.com/cluffa/BarTracking), 
-A machine learning project utilizing deep learning and computer vision to track the path of a barbell during lifts. Worked on all aspects of the machine learning process, including data annotation, data pipeline management, model architecture adjustments, GPU-based training, and optimization.
+A machine learning project utilizing deep learning and computer vision to track the path of a barbell during lifts. Worked on all aspects of the machine learning process, including data annotation, data pipeline management, model architecture adjustments, GPU-based training, and optimization. -->
