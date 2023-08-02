@@ -10,20 +10,21 @@ Data-driven professional with a Bachelor's in Statistics & Data Analytics, skill
 *Columbus, OH*
 
 ## Experience
-### **Landscaper**, McColly Landscaping _(Jun 2014 - Dec 2022)_
-- Managed 25+ clients, generating repeat business through exceptional customer service
-- Tracked jobs, hours, and expenses using Excel, improving efficiency and cost management
-- Assisted with planning schedules and delegating assignments to meet service demands
-- Analyzed operational data to identify areas for process improvement
+
+### **Image Annotation Analyst (Contractor)**, SparkAI _(Feb 2023 - May 2023)_
+- Performed image annotation tasks to solve edge cases in real-time, ensuring accurate and consistent results
+- Followed project-specific guidelines and quality standards to maintain high-quality data
 
 ### **Data Analyst Intern**, ONU Esports _(Apr 2022 - Dec 2022)_
 - Collected performance data and developed new KPIs from collected data, driving data-informed decision-making
 - Created and maintained dashboards with KPIs to help team members improve performance
 - Collaborated with team members to achieve target results, leveraging data analysis and visualization techniques
 
-### **Image Annotation Analyst (Contractor)**, SparkAI _(Feb 2023 - May 2023)_
-- Performed image annotation tasks to solve edge cases in real-time, ensuring accurate and consistent results
-- Followed project-specific guidelines and quality standards to maintain high-quality data
+### **Landscaper**, McColly Landscaping _(Jun 2014 - Dec 2022)_
+- Managed 25+ clients, generating repeat business through exceptional customer service
+- Tracked jobs, hours, and expenses using Excel, improving efficiency and cost management
+- Assisted with planning schedules and delegating assignments to meet service demands
+- Analyzed operational data to identify areas for process improvement
 
 ## Skills
 - Programming Languages: R, Python, SQL, Julia, Excel, MATLAB, Rust
