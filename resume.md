@@ -22,9 +22,12 @@ Data-driven professional with a Bachelor's in Statistics & Data Analytics, skill
 
 ### **Landscaper**, McColly Landscaping _(Jun 2014 - Dec 2022)_
 - Managed 25+ clients, generating repeat business through exceptional customer service
-- Tracked jobs, hours, and expenses using Excel, improving efficiency and cost management
+- Tracked jobs, hours, and expenses using Excel, providing efficient cost management
 - Assisted with planning schedules and delegating assignments to meet service demands
-- Analyzed operational data to identify areas for process improvement
+
+### **Seasonal Delivery Driver**, UPS _(Oct 2023 - Jan 2024)_
+- Performed efficient package delivery and pickup
+- Demonstrated excellent customer service
 
 ## Skills
 - Programming Languages: R, Python, SQL, Julia, Excel, MATLAB, Rust
