@@ -30,7 +30,7 @@ Data-driven professional with a Bachelor's in Statistics & Data Analytics, skill
 - Demonstrated excellent customer service
 
 ## Skills
-- Programming Languages: R, Python, SQL, Julia, Excel, MATLAB, Rust
+- Programming Languages: R, Python, SQL, Julia, Excel, MATLAB, SAS
 - Data Science: statistics, analysis, visualization, AI/machine learning, time series analysis, data cleaning
 - Web Development: HTML, CSS, JavaScript, React
 - Dashboard Tools: Tableau, Power BI, Shiny (R + Python), Plotly
